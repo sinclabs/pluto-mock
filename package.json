@@ -1,0 +1,17 @@
+{
+  "name": "Pluto",
+  "description": "Mock App",
+  "version": "0.).0",
+  "main": "index.html",
+  "window": {
+    "toolbar": true,
+    "frame": true
+  },
+  "dependencies": {
+    "fs": "",
+    "ws": ""
+  },
+  "devDependencies": {
+    
+  }
+}
